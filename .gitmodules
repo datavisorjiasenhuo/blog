@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/ts-xie/ts-xie.github.io.git
+	branch = master
